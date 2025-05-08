@@ -7,8 +7,6 @@ A commercial desktop voice assistant application powered by Python. This intelli
 
 > ⚠️ This product is proprietary and licensed. Unauthorized redistribution or resale is strictly prohibited.
 
----
-
 ## 💼 Key Features
 
 - 🎤 Voice recognition (SpeechRecognition)
@@ -18,15 +16,11 @@ A commercial desktop voice assistant application powered by Python. This intelli
 - 🔗 Opens YouTube, Google, and other web tools
 - ✅ Easy to install and launch on Windows
 
----
-
 ## 📦 System Requirements
 
 - Python 3.7 or above
 - Windows 10 or later (for batch launcher support)
 - Microphone and speakers
-
----
 
 ## 📥 Installation & Setup
 
@@ -57,8 +51,6 @@ python VoiceAssistant.py
 
 Double-click `Setup.bat` to auto-install dependencies and launch the assistant.
 
----
-
 ## 📁 File Structure
 
 ```
@@ -70,15 +62,11 @@ CodeAlpha_VoiceAssistant/
 ├── README.md                # This file
 ```
 
----
-
 ## 📜 License
 
 This software is licensed for individual or commercial use under a proprietary license. Redistribution, modification, or resale is **not permitted** without written authorization from the owner.
 
 See [LICENSE](LICENSE) for full terms.
-
----
 
 ## 👨‍💻 Author
 
