@@ -62,10 +62,10 @@ Double-click `install_and_run.bat` to auto-install dependencies and launch the a
 ## 📁 File Structure
 
 ```
-voice-assistant/
+CodeAlpha_VoiceAssistant/
 │
-├── voice_assistant.py       # Main application script
-├── install_and_run.bat      # Windows auto-launcher
+├── VoiceAssistant.py       # Main application script
+├── Setup.bat      # Windows auto-launcher
 ├── LICENSE                  # Proprietary License
 ├── README.md                # This file
 ```
