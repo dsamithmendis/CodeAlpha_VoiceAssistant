@@ -64,8 +64,8 @@ Double-click `install_and_run.bat` to auto-install dependencies and launch the a
 ```
 CodeAlpha_VoiceAssistant/
 │
-├── VoiceAssistant.py       # Main application script
-├── Setup.bat      # Windows auto-launcher
+├── VoiceAssistant.py        # Main application script
+├── Setup.bat                # Windows auto-launcher
 ├── LICENSE                  # Proprietary License
 ├── README.md                # This file
 ```
@@ -84,4 +84,4 @@ See [LICENSE](LICENSE) for full terms.
 
 **Samith Mendis**  
 GitHub: [@dsamithmendis](https://github.com/dsamithmendis)  
-Email: [samithmendis.01@email.com]
+Email: [samithmendis.01@gmail.com]
