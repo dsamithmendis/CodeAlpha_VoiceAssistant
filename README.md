@@ -1,4 +1,4 @@
-# 🗣️ Python Voice Assistant
+# 🗣️ Voice Assistant
 
 **Developed by Samith Mendis**  
 © 2025 All Rights Reserved
