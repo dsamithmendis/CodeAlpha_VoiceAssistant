@@ -50,12 +50,12 @@ pipwin install pyaudio
 #### Option A: Command Line
 
 ```bash
-python voice_assistant.py
+python VoiceAssistant.py
 ```
 
 #### Option B: Double-Click (Windows)
 
-Double-click `install_and_run.bat` to auto-install dependencies and launch the assistant.
+Double-click `Setup.bat` to auto-install dependencies and launch the assistant.
 
 ---
 
