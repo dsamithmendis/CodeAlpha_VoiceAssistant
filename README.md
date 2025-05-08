@@ -84,4 +84,4 @@ See [LICENSE](LICENSE) for full terms.
 
 **Samith Mendis**  
 GitHub: [@dsamithmendis](https://github.com/dsamithmendis)  
-Email: [your@email.com]
+Email: [samithmendis.01@email.com]
