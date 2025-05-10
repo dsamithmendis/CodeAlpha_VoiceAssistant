@@ -56,10 +56,9 @@ Double-click `Setup.bat` to auto-install dependencies and launch the assistant.
 ```
 CodeAlpha_VoiceAssistant/
 │
-├── VoiceAssistant.py        # Main application script
-├── Setup.bat                # Windows auto-launcher
-├── LICENSE                  # Proprietary License
-├── README.md                # This file
+├── VoiceAssistant.py
+├── Setup.bat
+
 ```
 
 ## 📜 License
